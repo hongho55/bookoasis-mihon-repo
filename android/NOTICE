@@ -1,0 +1,11 @@
+BookOasis Android is derived from Mihon.
+Copyright © 2015 Javier Tomás
+Copyright © 2024 Mihon Open Source Project
+
+Mihon: https://github.com/mihonapp/mihon
+License: Apache License, Version 2.0 (see LICENSE).
+
+This distribution modifies the application name and packaging, adds BookOasis
+connection and native home screens, document/offline reading and downloads,
+and plugin-free reading-position synchronization. Original copyright and
+third-party license notices are retained in the sources and application.
