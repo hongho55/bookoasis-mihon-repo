@@ -1,0 +1,13 @@
+{
+  "release": "v31",
+  "version_name": "0.20.6-bookoasis-v31",
+  "version_code": 38,
+  "application_id": "app.bookoasis.reader.directtest.dev",
+  "abi": "arm64-v8a",
+  "apk": "BookOasis-v31-arm64.apk",
+  "apk_sha256": "7a03c66d8f1e1020183ee1b32755a8740663b69a2720e857f61c4ccb1e1faa63",
+  "original_source_commit": "03ab9017bf1aa3242fd7ddfff0daa8bcc2fd1bc7",
+  "source_note": "Tested v31 runtime sources preserved; publication documentation and local HTTP test configuration paths sanitized.",
+  "unit_tests_passed": 132,
+  "device_validation": "S20 install/update and synthetic EPUB rendering"
+}
